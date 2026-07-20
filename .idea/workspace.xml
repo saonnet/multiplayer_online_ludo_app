@@ -1,4 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52040ca1-7600-492a-8e20-f422df1213fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/config/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/LeaderboardTimeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/RedisService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/ScoreStoreRedisKeyHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/TimeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/UserprofileApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/UserprofileApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/config/SecurityConfiguration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saonnet&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/saonnet/LudoGateway.git&quot;,
+    &quot;accountId&quot;: &quot;d8358917-ae65-4b37-8c75-2ec88497272a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3GbO6H8EQJ0JSf7VtvW1Altlu2T" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.LudoGateway [:com.saonnet.ludo.UserprofileApplication.main()].executor": "Run",
+    "Gradle.LudoGateway [:com.saonnet.ludo.userprofile.UserprofileApplication.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/shivansh/Development/intellij_projects/LudoGateway/build.gradle"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52040ca1-7600-492a-8e20-f422df1213fc" name="Changes" comment="" />
+      <created>1784236624451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784236624451</updated>
+    </task>
+    <servers />
+  </component>
 </project>
