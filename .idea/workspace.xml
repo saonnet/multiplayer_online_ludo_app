@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52040ca1-7600-492a-8e20-f422df1213fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/LeaderboardTimeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/RedisService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/ScoreStoreRedisKeyHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/leaderboard/service/TimeUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/UserprofileApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/UserprofileApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/config/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/saonnet/ludo/userprofile/config/SecurityConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/shivansh/Development/intellij_projects/LudoGateway/build.gradle"
+    "last_opened_file_path": "/home/shivansh/Development/intellij_projects/LLDVendingMachine"
   }
 }]]></component>
   <component name="TaskManager">
