@@ -19,6 +19,9 @@ public class RedisService {
 
     public void addScore(long timestamp, LeaderboardTimeType timeType, String playerId, int score) {
         String leaderBoardKey = ScoreStoreRedisKeyHelper.getLeaderboardKeyBasedOnTimestamp(timestamp, timeType);
+
+        System.out.println("LBK -> " + leaderBoardKey);
+
         redisTemplate.opsForZSet().incrementScore(leaderBoardKey, playerId, score);
     }
 
